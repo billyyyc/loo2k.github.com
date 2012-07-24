@@ -9,4 +9,4 @@ tags: [default]
 
 ## Hello jekyll
 
-此博客作为知识库用来保存一些常用的代码片段和技术性文字；你同时可以访问 [LOO2K](http://loo2k.com/blog) 获取更多内容；
+此博客作为知识库用来保存一些常用的代码片段以及技术性文字；你同时可以访问 [LOO2K](http://loo2k.com/blog) 获取更多内容；
