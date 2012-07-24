@@ -16,7 +16,7 @@ author :
   email : loo2km@gmail.com
   github : loo2k
   twitter : loo2k
-  feedburner : feedname
+  feedburner : loo2k
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -99,7 +99,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-24271878-2'
     getclicky :
       site_id : 
     mixpanel :
